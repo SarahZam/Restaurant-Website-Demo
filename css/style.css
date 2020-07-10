@@ -52,3 +52,7 @@ body  {
     margin-right: 10px !important;
 }
 
+.reserve-button{
+    text-decoration: none !important;
+    color: inherit;
+}
